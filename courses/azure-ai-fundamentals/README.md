@@ -29,6 +29,11 @@ This course introduces fundamentals concepts related to artificial intelligence 
 
 2. Get started in Microsoft Foundry
 
+- [AI App Components](lectures/ai-app-components.md)
+- [Understand Azure](lectures/understand-azure.md)
+
+3. Introduction to machine learning concepts
+
 ### Key Concepts
 
 Important concepts covered in this course:
@@ -53,7 +58,7 @@ Additional materials and references:
 ### Completed Topics
 
 - [x] Overview of AI concepts
-- [ ] Get started in Microsoft Foundry
+- [x] Get started in Microsoft Foundry
 - [ ] Introduction to machine learning concepts
 - [ ] Get started with machine learning in Azure
 - [ ] Introduction to generative AI and agents
