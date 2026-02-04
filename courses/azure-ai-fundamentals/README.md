@@ -34,6 +34,14 @@ This course introduces fundamentals concepts related to artificial intelligence 
 
 3. Introduction to machine learning concepts
 
+- [Machine Learning Model](lectures/machine-learning-model.md)
+- [Types of Machine Learning Models](lectures/types-of-ML-model.md)
+- [Regression](lectures/regression.md)
+- [Binary Classification](lectures/binary-classification.md)
+- [Multiclass Classification](lectures/multiclass-classification.md)
+- [Clustering](lectures/clustering.md)
+- [Deep Learning](lectures/deep-learning.md)
+
 ### Key Concepts
 
 Important concepts covered in this course:
