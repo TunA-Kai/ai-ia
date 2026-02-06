@@ -42,6 +42,10 @@ This course introduces fundamentals concepts related to artificial intelligence 
 - [Clustering](lectures/clustering.md)
 - [Deep Learning](lectures/deep-learning.md)
 
+4. Get started with machine learning in Azure
+
+- [ML in Azure](lectures/ML-in-Azure.md)
+
 ### Key Concepts
 
 Important concepts covered in this course:
