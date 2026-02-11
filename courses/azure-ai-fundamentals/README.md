@@ -46,6 +46,12 @@ This course introduces fundamentals concepts related to artificial intelligence 
 
 - [ML in Azure](lectures/ML-in-Azure.md)
 
+5. Introduction to generative AI and agents
+
+- [Large Language Models (LLMs)](lectures/large-language-model.md)
+- [Prompts](lectures/prompts.md)
+- [AI Agents](lectures/ai-agents.md)
+
 ### Key Concepts
 
 Important concepts covered in this course:
@@ -71,8 +77,8 @@ Additional materials and references:
 
 - [x] Overview of AI concepts
 - [x] Get started in Microsoft Foundry
-- [ ] Introduction to machine learning concepts
-- [ ] Get started with machine learning in Azure
+- [x] Introduction to machine learning concepts
+- [x] Get started with machine learning in Azure
 - [ ] Introduction to generative AI and agents
 - [ ] Get started with generative AI and agents in Microsoft Foundry
 - [ ] Introduction to text analysis concepts
