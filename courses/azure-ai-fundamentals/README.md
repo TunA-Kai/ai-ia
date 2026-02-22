@@ -52,6 +52,14 @@ This course introduces fundamentals concepts related to artificial intelligence 
 - [Prompts](lectures/prompts.md)
 - [AI Agents](lectures/ai-agents.md)
 
+6. Get started with generative AI and agents in Microsoft Foundry
+
+- [Generative AI in Azure](lectures/genAI-agents-in-Foundry.md)
+
+7. Introduction to NLP concepts
+
+- [Natural Language Processing](lectures/nlp.md)
+
 ### Key Concepts
 
 Important concepts covered in this course:
@@ -79,10 +87,10 @@ Additional materials and references:
 - [x] Get started in Microsoft Foundry
 - [x] Introduction to machine learning concepts
 - [x] Get started with machine learning in Azure
-- [ ] Introduction to generative AI and agents
+- [x] Introduction to generative AI and agents
 - [ ] Get started with generative AI and agents in Microsoft Foundry
-- [ ] Introduction to text analysis concepts
-- [ ] Get started with text analysis in Microsoft Foundry
+- [x] Introduction to NLP concepts
+- [ ] Get started with NLP in Microsoft Foundry
 - [ ] Introduction to AI speech concepts
 - [ ] Get started with speech in Microsoft Foundry
 - [ ] Introduction to computer vision concepts
