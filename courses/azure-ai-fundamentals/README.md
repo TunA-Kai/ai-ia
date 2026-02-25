@@ -60,6 +60,11 @@ This course introduces fundamentals concepts related to artificial intelligence 
 
 - [Natural Language Processing](lectures/nlp.md)
 
+9. Introduction to AI speech concepts
+
+- [Speech Recognition](lectures/speech-recognition.md)
+- [Speech Synthesis](lectures/speech-synthesis.md)
+
 ### Key Concepts
 
 Important concepts covered in this course:
@@ -88,10 +93,10 @@ Additional materials and references:
 - [x] Introduction to machine learning concepts
 - [x] Get started with machine learning in Azure
 - [x] Introduction to generative AI and agents
-- [ ] Get started with generative AI and agents in Microsoft Foundry
+- [x] Get started with generative AI and agents in Microsoft Foundry
 - [x] Introduction to NLP concepts
-- [ ] Get started with NLP in Microsoft Foundry
-- [ ] Introduction to AI speech concepts
+- [x] Get started with NLP in Microsoft Foundry
+- [x] Introduction to AI speech concepts
 - [ ] Get started with speech in Microsoft Foundry
 - [ ] Introduction to computer vision concepts
 - [ ] Get started with computer vision in Microsoft Foundry
