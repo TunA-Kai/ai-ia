@@ -4,9 +4,9 @@
 
 - **Instructor/Source**: Microsoft Learn
 - **Duration**: Time period
-- **Status**: In Progress
+- **Status**: Completed
 - **Start Date**: 2026-01-30
-- **Completion Date**: YYYY-MM-DD (if applicable)
+- **Completion Date**: 2026-03-25
 
 ## Description
 
@@ -105,4 +105,5 @@ Additional materials and references:
 
 ## Notes & Reflections
 
-Overall thoughts about the course, key takeaways, or areas for review.
+Pass the exam on 2026-03-25 with a score of 825/1000.
+It has some details questions but overall you can pass the exam if you understand the concepts of ML, genAI, NLP, speech, computer vision and responsible AI. The exam is not designed to test your ability to use Azure services, but rather to test your understanding of AI concepts and how they relate to Azure services.
