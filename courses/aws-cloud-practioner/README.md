@@ -26,6 +26,9 @@ This course is for AWS Certified Cloud Practitioner.
 
 2. Compute in the Cloud
 
+- [Introduction to EC2](lectures/ec2-intro.md)
+- [EC2 Scaling and Load Balancing](lectures/ec2-scaling-and-load-balancing.md)
+
 ### Resources
 
 - [Resource links](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7)
