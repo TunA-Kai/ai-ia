@@ -29,6 +29,12 @@ This course is for AWS Certified Cloud Practitioner.
 - [Introduction to EC2](lectures/ec2-intro.md)
 - [EC2 Scaling and Load Balancing](lectures/ec2-scaling-and-load-balancing.md)
 
+3. Exploring Compute Services
+
+- [AWS Lambda](lectures/aws-lambda.md)
+- [Containers and Orchestration](lectures/container-and-orchestration.md)
+- [Additional Compute Services](lectures/additional-compute-services.md)
+
 ### Resources
 
 - [Resource links](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7)
@@ -36,7 +42,7 @@ This course is for AWS Certified Cloud Practitioner.
 ## Progress Tracking
 
 - [x] Introduction to the Cloud
-- [ ] Compute in the Cloud
+- [x] Compute in the Cloud
 - [ ] Exploring Compute Services
 - [ ] Going global
 - [ ] Networking
