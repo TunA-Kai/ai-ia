@@ -35,6 +35,10 @@ This course is for AWS Certified Cloud Practitioner.
 - [Containers and Orchestration](lectures/container-and-orchestration.md)
 - [Additional Compute Services](lectures/additional-compute-services.md)
 
+4. [Going global](lectures/going-global.md)
+
+5. Networking
+
 ### Resources
 
 - [Resource links](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7)
@@ -43,8 +47,8 @@ This course is for AWS Certified Cloud Practitioner.
 
 - [x] Introduction to the Cloud
 - [x] Compute in the Cloud
-- [ ] Exploring Compute Services
-- [ ] Going global
+- [x] Exploring Compute Services
+- [x] Going global
 - [ ] Networking
 - [ ] Storage
 - [ ] Databases
