@@ -39,6 +39,9 @@ This course is for AWS Certified Cloud Practitioner.
 
 5. Networking
 
+- [Intro](lectures/intro-networking.md)
+- [Subnets, Security Groups, and Network ACLs](lectures/subnets-security-groups-network-ACLs.md)
+
 ### Resources
 
 - [Resource links](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7)
