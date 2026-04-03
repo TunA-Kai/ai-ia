@@ -41,6 +41,7 @@ This course is for AWS Certified Cloud Practitioner.
 
 - [Intro](lectures/intro-networking.md)
 - [Subnets, Security Groups, and Network ACLs](lectures/subnets-security-groups-network-ACLs.md)
+- [Global Networking](lectures/global-networking.md)
 
 ### Resources
 
@@ -52,7 +53,7 @@ This course is for AWS Certified Cloud Practitioner.
 - [x] Compute in the Cloud
 - [x] Exploring Compute Services
 - [x] Going global
-- [ ] Networking
+- [x] Networking
 - [ ] Storage
 - [ ] Databases
 - [ ] AI ML and Data Analytics
