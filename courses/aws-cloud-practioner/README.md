@@ -43,6 +43,12 @@ This course is for AWS Certified Cloud Practitioner.
 - [Subnets, Security Groups, and Network ACLs](lectures/subnets-security-groups-network-ACLs.md)
 - [Global Networking](lectures/global-networking.md)
 
+6. Storage
+
+- [Intro](lectures/intro-storage.md)
+- [Block Storage (EBS)](lectures/block-storage.md)
+- [Object Storage (S3)](lectures/object-storage.md)
+
 ### Resources
 
 - [Resource links](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7)
