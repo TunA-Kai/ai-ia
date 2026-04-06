@@ -1,8 +1,8 @@
 ---
-title: "Object Storage (S3)"
-course: "AWS Cloud Practitioner Essentials"
+title: 'Object Storage (S3)'
+course: 'AWS Cloud Practitioner Essentials'
 date: 2026-04-05
-topic: "AWS Object Storage (S3)"
+topic: 'AWS Object Storage (S3)'
 tags: [cloud, AWS, fundamentals]
 ---
 
@@ -51,3 +51,35 @@ Everything you store in Amazon S3 is private by default. You must explicitly gra
 - **Encryption**: Amazon S3 provides encryption capabilities to protect data both at rest and in transit. These encryption features help maintain data confidentiality and comply with various security standards and regulations. These capabilities are as follows:
   - **Encryption at rest**: Secures data stored in S3 buckets, preventing unauthorized access to stored objects.
   - **Encryption in transit**: Safeguards data traveling to and from Amazon S3, maintaining secure communication between clients and the service.
+
+### Storage classes
+
+| Storage Class                  | Best For                                      | Use Case Example                            | Access Speed             | Availability Zones     | Retrieval Cost  | Min Storage Duration | Cost Level 💰 |
+| ------------------------------ | --------------------------------------------- | ------------------------------------------- | ------------------------ | ---------------------- | --------------- | -------------------- | ------------- |
+| **S3 Standard**                | Frequently accessed data                      | Web apps, content delivery, active data     | Milliseconds             | Multi-AZ               | No              | None                 | High          |
+| **S3 Intelligent-Tiering**     | Unknown/changing access patterns              | Data lakes, user uploads, analytics data    | Milliseconds             | Multi-AZ               | No (most tiers) | None                 | Medium        |
+| **S3 Standard-IA**             | Infrequent but quick access                   | Backups, disaster recovery                  | Milliseconds             | Multi-AZ               | Yes             | 30 days              | Lower         |
+| **S3 One Zone-IA**             | Infrequent, non-critical data                 | Re-creatable data, secondary backups        | Milliseconds             | Single AZ              | Yes             | 30 days              | Lower         |
+| **S3 Express One Zone**        | Ultra-low latency, high-performance workloads | Real-time analytics, AI/ML feature stores   | Single-digit ms / sub-ms | Single AZ              | No              | None                 | High          |
+| **Glacier Instant Retrieval**  | Archive with immediate access                 | Medical images, media archives              | Milliseconds             | Multi-AZ               | Yes             | 90 days              | Low           |
+| **Glacier Flexible Retrieval** | Archive with occasional access                | Backup archives, compliance data            | Minutes–Hours            | Multi-AZ               | Yes             | 90 days              | Very Low      |
+| **Glacier Deep Archive**       | Long-term rarely accessed archive             | Legal records, long-term compliance storage | Hours (up to ~12h)       | Multi-AZ               | Yes             | 180 days             | Lowest        |
+| **S3 on Outposts**             | Data residency / on-premises S3 needs         | Local processing, regulated workloads       | Low latency (on-prem)    | Single Outpost (local) | No              | None                 | High          |
+
+### S3 Lifecycle
+
+To avoid manually managing your object storage tier configurations, you can use S3 Lifecycle configurations to automate the process. When you define a lifecycle configuration for an object or group of objects, you can choose to automate between two types of actions, as follows:
+
+- **Transition actions**: define when objects should transition to another storage class.
+- **Expiration actions**: define when objects expire and should be permanently deleted.
+
+For example, you might transition objects to S3 Standard-IA storage class 30 days after you create them. Or you might archive objects to the S3 Glacier Deep Archive storage class 1 year after creating them.
+
+Use cases:
+
+- **Periodic logs**: If you upload periodic logs to a bucket, your application might need them for a week or a month. After that, you might want to delete them.
+
+- **Data that changes in access frequency**: Some documents are frequently accessed for a limited period of time. After that, they are infrequently accessed. At some point, you might not need real-time access to them. However, your organization or regulations might require you to archive them for a specific period. After that, you can delete them.
+
+![s3-console-management](../images/s3-management-lifecycle.png)
+![s3-lifecycle-setup](../images/s3-lifecycle-setup.png)
