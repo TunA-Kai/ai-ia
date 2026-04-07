@@ -48,6 +48,7 @@ This course is for AWS Certified Cloud Practitioner.
 - [Intro](lectures/intro-storage.md)
 - [Block Storage (EBS)](lectures/block-storage.md)
 - [Object Storage (S3)](lectures/object-storage.md)
+- [File Storage (EFS)](lectures/file-storage.md)
 
 ### Resources
 
