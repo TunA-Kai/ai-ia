@@ -51,6 +51,10 @@ This course is for AWS Certified Cloud Practitioner.
 - [File Storage (EFS)](lectures/file-storage.md)
 - [Additional Storage Services](lectures/additional-storage-services.md)
 
+7. [Databases](lectures/databases.md)
+
+8. AI ML and Data Analytics
+
 ### Resources
 
 - [Resource links](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7)
@@ -62,8 +66,8 @@ This course is for AWS Certified Cloud Practitioner.
 - [x] Exploring Compute Services
 - [x] Going global
 - [x] Networking
-- [ ] Storage
-- [ ] Databases
+- [x] Storage
+- [x] Databases
 - [ ] AI ML and Data Analytics
 - [ ] Security
 - [ ] Monitoring, Compliance and Governance in the AWS Cloud
