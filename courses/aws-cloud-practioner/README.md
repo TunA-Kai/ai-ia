@@ -55,6 +55,15 @@ This course is for AWS Certified Cloud Practitioner.
 
 8. AI ML and Data Analytics
 
+- [AI/ML Services](lectures/ai-ml-services.md)
+
+9. Security
+
+- [Prevent Unauthorized Access](lectures/prevent-unauthorized-access.md)
+- [Protecting Networks and Applications](lectures/protect-network-and-applications.md)
+- [Data Protection](lectures/protect-data.md)
+- [Detecting and Responding to Security Incidents](lectures/detecting-responding-security-incidents.md)
+
 ### Resources
 
 - [Resource links](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7)
@@ -69,7 +78,7 @@ This course is for AWS Certified Cloud Practitioner.
 - [x] Storage
 - [x] Databases
 - [ ] AI ML and Data Analytics
-- [ ] Security
+- [x] Security
 - [ ] Monitoring, Compliance and Governance in the AWS Cloud
 - [ ] Pricing and Support
 - [ ] Migrating to the AWS Cloud
