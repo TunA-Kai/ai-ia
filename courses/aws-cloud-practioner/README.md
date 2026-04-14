@@ -66,6 +66,9 @@ This course is for AWS Certified Cloud Practitioner.
 
 10. Monitoring, Compliance and Governance in the AWS Cloud
 
+- [Monitoring](lectures/monitoring.md)
+- [Compliance](lectures/compliance.md)
+
 ### Resources
 
 - [Resource links](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7)
