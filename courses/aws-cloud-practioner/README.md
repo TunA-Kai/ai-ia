@@ -64,6 +64,8 @@ This course is for AWS Certified Cloud Practitioner.
 - [Data Protection](lectures/protect-data.md)
 - [Detecting and Responding to Security Incidents](lectures/detecting-responding-security-incidents.md)
 
+10. Monitoring, Compliance and Governance in the AWS Cloud
+
 ### Resources
 
 - [Resource links](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7)
