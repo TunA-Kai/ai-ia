@@ -68,6 +68,9 @@ This course is for AWS Certified Cloud Practitioner.
 
 - [Monitoring](lectures/monitoring.md)
 - [Compliance](lectures/compliance.md)
+- [Governance](lectures/governance.md)
+
+11. Pricing and Support
 
 ### Resources
 
