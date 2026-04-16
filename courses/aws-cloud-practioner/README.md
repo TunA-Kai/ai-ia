@@ -72,6 +72,8 @@ This course is for AWS Certified Cloud Practitioner.
 
 11. Pricing and Support
 
+- [Pricing](lectures/pricing.md)
+
 ### Resources
 
 - [Resource links](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7)
@@ -87,8 +89,8 @@ This course is for AWS Certified Cloud Practitioner.
 - [x] Databases
 - [ ] AI ML and Data Analytics
 - [x] Security
-- [ ] Monitoring, Compliance and Governance in the AWS Cloud
-- [ ] Pricing and Support
+- [x] Monitoring, Compliance and Governance in the AWS Cloud
+- [x] Pricing and Support
 - [ ] Migrating to the AWS Cloud
 - [ ] Well-Architected Solutions
 
