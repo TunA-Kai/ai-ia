@@ -7,6 +7,7 @@
 - **Status**: In Progress
 - **Start Date**: 2026-03-27
 - **Completion Date**: YYYY-MM-DD (if applicable)
+- **Drop Date**: 2026-05-07 (reason: because I want to focus on frontend development)
 
 ## Description
 
